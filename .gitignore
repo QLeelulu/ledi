@@ -1,0 +1,15 @@
+**.bak
+**.pyc
+**.pyo
+**.mo
+**.swp
+*~
+*.html.py
+*.so
+*.o
+*.orig
+*.tmp
+*.md5
+.DS_Store
+*.egg-info/**
+build/
